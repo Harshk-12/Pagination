@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .pagination-div{
+  position: absolute;
+  bottom: 2rem;
+  margin-inline: auto;
+  text-align: center;
+} */
+.cards-container{
+  min-height:30rem ;
+}
